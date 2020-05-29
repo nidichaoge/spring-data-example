@@ -1,0 +1,1 @@
+Caused by: java.lang.ClassNotFoundException: org.elasticsearch.client.Cancellable
